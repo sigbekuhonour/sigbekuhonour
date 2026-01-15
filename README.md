@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Honour Sigbeku 👋 
 
-<!--
-**sigbekuhonour/sigbekuhonour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Computer Science Major & Maths Minor Student | Aspiring Software Engineer
+I’m a highly motivated third year Computer Science student at **Memorial University of Newfoundland** with a strong interest in learning quickly, adapting to new challenges, and solving problems in practical ways. I have experience building mobile and web applications using Kotlin, JavaScript, TypeScript, React, and Jetpack Compose, along with a solid understanding of data structures and algorithms. I enjoy working in teams, contributing ideas, and collaborating to solve real-world problems, while also being comfortable learning new tools and technologies in fast-paced environments.
+Currently, I'm working on releasing more production ready cross platform applications and also improving my knowledge when it comes to cloud infrastructure. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:**  Kotlin, TypeScript, Java, Javascript, Python.
+- **Cloud & Backend:** AWS (Certified Cloud Practitioner in Progress), RESTful APIs, Firebase, Supabase.
+- **Architecture & Patterns:** MVVM, Clean Architecture, Domain Driven Designs(DDD)
+- **Current Focus:** Currently on my **AWS certifications** and picking up concepts i do need to learn in the journey of being a competent software engineeer.
+
+---
+
+### 🔭 Currently Working On
+- [cite_start]**AWS Practitioner Certification:** Studying core cloud infrastructure to migrate local projects to scalable AWS environments.
+- [cite_start]**Studyhub:** StudyHubApp is a student-focused note taking and collaboration tool designed to enhance studying, retention, and revision.**[cite: 70].
+- [cite_start]**SDSJ (Software Developer Group of St. John's):** Co-founding a community for local developers to share knowledge and build together[cite: 74].
+
+---
+
+### ⚡ Professional Highlights
+- **Internship Experience:** I've had 2 internships so far. One at a startup called **Kiderra** in St John's, NL where i worked as a software developer intern and the other one which was a remote android developer internship at **Konnected** which is a company located in London,UK.
+- **Competitive Programming:** 4th Place Finisher at **HackFrost NL 4.0** and participated in the last **DO.IT** hackathon in St John's, NL
+- **Volunteering Work:** Volunteered at the recent GDG St John's event - 2024 & 2025 
+- **Resilience:** Managing full-time CS coursework while maintaining consistent professional employment off-campus and organizing events for SDSJ monthly.
+
+---
+### 📫 Connect with me:
+- **LinkedIn:** [linkedin.com/in/honour-sigbeku](https://linkedin.com/in/honoursigbeku)
+- **Email:** [hosigbeku@mun.ca](mailto:hosigbeku@mun.ca)
+- **Location:** St. John's, NL, Canada 🇨🇦
+
+---
