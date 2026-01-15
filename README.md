@@ -15,7 +15,7 @@ Currently, I'm working on releasing more production ready cross platform applica
 
 ---
 
-💡 Why You Should Hire Me (TL;DR)
+💡 **Why You Should Hire Me (TL;DR)**
 * 🚀 **Systems Thinking** — Experience architecting production-grade applications using **Clean Architecture** and **Domain-Driven Design (DDD)**.
 * **Technical Resilience** — Proven ability to master complex frameworks and maintain high performance under pressure, evidenced by **2+ years** of concurrent professional employment while pursuing a CS degree.
 * 🏗️ **Architectural Integrity** — Committed to writing maintainable, testable code through strict adherence to **SOLID principles** and scalable state-management patterns.
