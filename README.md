@@ -57,7 +57,9 @@ Graduation: Fall 2027
 
 ### 📫 Connect with me:
 * **LinkedIn:** [linkedin.com/in/honour-sigbeku](https://linkedin.com/in/honoursigbeku)
-* **Email:** [hosigbeku@mun.ca](mailto:hosigbeku@mun.ca)
+* **Email:** [sigbekuhonour@gmail.com](mailto:sigbekuhonour@gmail.com)
+* **Phone** +1 (709) 853 2123
 * **Location:** St. John's, NL, Canada 🇨🇦
 
 ---
+Everything looks impossible until you take a chance and start doing something🫡 So let's do this! Summer 2026
