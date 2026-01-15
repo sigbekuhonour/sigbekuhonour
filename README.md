@@ -8,16 +8,16 @@ Currently, I'm working on releasing more production ready cross platform applica
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:**  Kotlin, TypeScript, Java, Javascript, Python.
-- **Cloud & Backend:** AWS (Certified Cloud Practitioner in Progress), RESTful APIs, Firebase, Supabase.
+- **Cloud & Backend:** AWS (Certified Cloud Practitioner in Progress), RESTful APIs, Firebase, Supabase, MongoDB.
 - **Architecture & Patterns:** MVVM, Clean Architecture, Domain Driven Designs(DDD)
 - **Current Focus:** Currently on my **AWS certifications** and picking up concepts i do need to learn in the journey of being a competent software engineeer.
 
 ---
 
 ### 🔭 Currently Working On
-- [cite_start]**AWS Practitioner Certification:** Studying core cloud infrastructure to migrate local projects to scalable AWS environments.
-- [cite_start]**Studyhub:** StudyHubApp is a student-focused note taking and collaboration tool designed to enhance studying, retention, and revision.**[cite: 70].
-- [cite_start]**SDSJ (Software Developer Group of St. John's):** Co-founding a community for local developers to share knowledge and build together[cite: 74].
+- **AWS Practitioner Certification:** Studying core cloud infrastructure to migrate local projects to scalable AWS environments.
+- **Studyhub:** StudyHubApp is a student-focused note taking and collaboration tool designed to enhance studying, retention, and revision.**[cite: 70].
+- **SDSJ (Software Developer Group of St. John's):** Co-founding a community for local developers to share knowledge and build together[cite: 74].
 
 ---
 
