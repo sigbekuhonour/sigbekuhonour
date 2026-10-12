@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 Computer Science Major & Maths Minor Student | Aspiring Software Engineer
-I’m a highly motivated third year Computer Science student at **Memorial University of Newfoundland** with a strong interest in learning quickly, adapting to new challenges, and solving problems in practical ways. I have experience building mobile and web applications using Kotlin, JavaScript, TypeScript, React, and Jetpack Compose, along with a solid understanding of data structures and algorithms. I enjoy working in teams, contributing ideas, and collaborating to solve real-world problems, while also being comfortable learning new tools and technologies in fast-paced environments.
+I’m a highly motivated fourth year Computer Science student at **Memorial University of Newfoundland** with a strong interest in learning quickly, adapting to new challenges, and solving problems in practical ways. I have experience building mobile and web applications using Kotlin, JavaScript, TypeScript, React, and Jetpack Compose, along with a solid understanding of data structures and algorithms. I enjoy working in teams, contributing ideas, and collaborating to solve real-world problems, while also being comfortable learning new tools and technologies in fast-paced environments.
 Currently, I'm working on releasing more production ready cross platform applications and also improving my knowledge when it comes to cloud infrastructure. I also recently started my software development internship at Townsuite.
 
 ---
